@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from '../Assests/IMG_4337.JPG'
-import twitter from '../Assests/ant-design_twitter-circle-filled.jpg'
-import linkedin from '../Assests/entypo-social_linkedin-with-circle.jpg'
+import {FaTwitter} from 'react-icons/fa'
+import {FaLinkedin} from 'react-icons/fa'
 
 
 const Booking = () => {
@@ -20,9 +20,8 @@ const Booking = () => {
                 <button className=' font-bold text-sm text-white' >HIRE ME!</button>
             </div>
             <div className=' flex flex-row pt-2 max-md:pt-1 gap-2'>
-               <a href="https://twitter.com/Dev_lollytech"><img src={twitter} alt="" /></a> 
-                <a href="https://www.linkedin.com/in/adebayo-omolara-3034b2130/"><img src={linkedin} alt="" /></a>
-                
+               <a href="https://twitter.com/Dev_lollytech"><FaTwitter className=' text-white text-3xl'/></a> 
+                <a href="https://www.linkedin.com/in/adebayo-omolara-3034b2130/"><FaLinkedin className=' text-white text-3xl'/></a>   
             </div>
                 
             </div>

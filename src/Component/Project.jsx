@@ -14,7 +14,7 @@ const Project = () => {
             <h1 className=' text-center font-bold font-[Poppins] text-[54px] max-sm:text-3xl max-md:text-4xl text-white'>Projects</h1>
             <p className=' text-center font-light text-[34px] text-white max-sm:text-xl max-md:text-2xl'>Things i've built so far</p>
             </div>
-            <div className=' pt-5 flex flex-row max-sm:flex-col justify-center align-middle gap-6'>
+            <div className=' pt-5 flex flex-row max-sm:flex-col justify-center  max-md:place-items-center align-middle gap-6 ' >
                 <div className=' bg-slate-200  h-[22rem] max-sm:h-[15rem] max-md:h-[19rem] w-[20rem] max-sm:[10rem] rounded-3xl shadow-[4px_4px_4px_rgba(0,0,0,0.9)] flex justify-center align-middle flex-col'>
                     <div className=' flex justify-center align-middle flex-col  pt-16 max-sm:pt-6 max-md:pt-7'>
                             <h1 className=' text-center font-extrabold text-[30px] max-sm:text-2xl max-md:text-2xl font-[Poppins]'>BMI </h1>
@@ -55,7 +55,7 @@ const Project = () => {
                     </div>
                 </div>
             </div>
-            <div className=' pt-5 flex flex-row max-sm:flex-col justify-center align-middle gap-6'>
+            <div className=' pt-5 flex flex-row max-sm:flex-col justify-center max-md:place-items-center align-middle gap-6'>
                 <div className=' bg-slate-200  h-[22rem] max-sm:h-[15rem] max-md:h-[19rem] w-[20rem] max-sm:[10rem] rounded-3xl shadow-[4px_4px_4px_rgba(0,0,0,0.9)]'>
                     <div className=' flex justify-center align-middle flex-col pt-16 max-sm:pt-6 max-md:pt-7'>
                             <h1 className=' text-center font-extrabold text-[30px] max-sm:text-2xl max-md:text-2xl font-[Poppins]'>ISLAMIC COUNTER </h1>

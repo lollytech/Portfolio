@@ -7,11 +7,11 @@ const Aboutme = () => {
         <div className=' h-92 pt-6  '>
             <p className=' text-center font-bold font-[Poppins] text-[54px] max-sm:text-1xl max-md:text-4xl'>About Me</p>
                 <div className=' '>
-                    <h1 className=' text-[30px] max-sm:text-xl font-bold'>Hello There!</h1>
+                    <h1 className=' text-[30px] max-sm:text-xl font-bold text-center'></h1>
                     <br />
-                    <div className=' flex flex-col px-14 justify-start align-middle'>
-                        <h1> Let me introduce myself, i am responsible,creative,open-minded, friendly and am ambitious towards my web developer.</h1>
-                        <h1>As a software developer, I relish the opportunity to bring ideas tolife through code. My journey in the world of programming began <br /> Febuary 2022 and for a year and some couple of months.</h1>
+                    <div className=' flex flex-col px-14 text-center max-md:text-start justify-center align-middle'>
+                        <h1> My Name is Omolara i am responsible,creative,open-minded, friendly and am ambitious towards my web developer.</h1>
+                        <h1>As a developer, I relish the opportunity to bring ideas tolife through code. My journey in the world of programming began <br /> Febuary 2022 and for a year and some couple of months.</h1>
                         <h1>I have honed my skills in a variety of programming languages and frameworks, allowing me to build robust, efficient, and scalable applications.</h1>
                         <h1>My hands-on experience in [mention specific areas, e.g., web development, mobile apps, etc.] has instilled in me a problem-solving <br /> mindset and an insatiable curiosity to stay at the forefront of technological advancements</h1>
                         <br />

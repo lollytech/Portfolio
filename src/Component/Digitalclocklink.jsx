@@ -1,6 +1,6 @@
 import React from 'react';
-import Icon from '../Assests/akar-icons_link-chain (1).jpg'
-import Github from '../Assests/akar-icons_github-fill.jpg'
+import Icon from '../Assests/akar-icons_link-chain__1_-removebg-preview.png'
+import Github from '../Assests/akar-icons_github-fill-removebg-preview.png'
 
 const Digitalclocklink = () => {
     return (
